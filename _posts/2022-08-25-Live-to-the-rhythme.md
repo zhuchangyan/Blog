@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: blog-post
+author: changyan
 title:  "Welcome to Jekyll!"
 ---
 
